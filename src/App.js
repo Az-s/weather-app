@@ -16,9 +16,6 @@ const App = () => {
         }
     };
 
-    // const refresh = () => {
-    // };
-
     return (
         <div className="main-container">
             <h1 className='title'>Weather in your city</h1>
